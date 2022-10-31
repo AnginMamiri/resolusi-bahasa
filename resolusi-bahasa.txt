@@ -4,3 +4,5 @@ Resolusi bahasa yang akan dikuasai
 -Kuasai React.js
 -kuasai React Native
 -Kuasai Java
+-kuasai php
+ code Igniter 3
