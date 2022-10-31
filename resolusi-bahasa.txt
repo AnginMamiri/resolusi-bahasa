@@ -2,3 +2,5 @@ Resolusi bahasa yang akan dikuasai
 -Kuasai javascript
 -kuasai Node.js
 -Kuasai React.js
+-kuasai React Native
+-Kuasai Phyton
