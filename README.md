@@ -1,0 +1,2 @@
+# resolusi-bahasa
+penguasaan bahasa
